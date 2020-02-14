@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap');
+
+/* CSS GLOBAL */
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+body {
+  -webkit-font-smoothing: antialiased !important;
+  overflow-x: hidden;
+}
+
+body, input, button {
+  color: #BDC9D2;
+  font-size: 14px;
+  font-family: 'Montserrat', sans-serif;
+}
+button {
+  cursor: pointer;
+}
